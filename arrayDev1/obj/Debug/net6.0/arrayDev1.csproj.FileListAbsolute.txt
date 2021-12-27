@@ -1,0 +1,15 @@
+C:\Users\Анна\Desktop\HomeExs\arrayDev1\bin\Debug\net6.0\arrayDev1.exe
+C:\Users\Анна\Desktop\HomeExs\arrayDev1\bin\Debug\net6.0\arrayDev1.deps.json
+C:\Users\Анна\Desktop\HomeExs\arrayDev1\bin\Debug\net6.0\arrayDev1.runtimeconfig.json
+C:\Users\Анна\Desktop\HomeExs\arrayDev1\bin\Debug\net6.0\arrayDev1.dll
+C:\Users\Анна\Desktop\HomeExs\arrayDev1\bin\Debug\net6.0\ref\arrayDev1.dll
+C:\Users\Анна\Desktop\HomeExs\arrayDev1\bin\Debug\net6.0\arrayDev1.pdb
+C:\Users\Анна\Desktop\HomeExs\arrayDev1\obj\Debug\net6.0\arrayDev1.csproj.AssemblyReference.cache
+C:\Users\Анна\Desktop\HomeExs\arrayDev1\obj\Debug\net6.0\arrayDev1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Анна\Desktop\HomeExs\arrayDev1\obj\Debug\net6.0\arrayDev1.AssemblyInfoInputs.cache
+C:\Users\Анна\Desktop\HomeExs\arrayDev1\obj\Debug\net6.0\arrayDev1.AssemblyInfo.cs
+C:\Users\Анна\Desktop\HomeExs\arrayDev1\obj\Debug\net6.0\arrayDev1.csproj.CoreCompileInputs.cache
+C:\Users\Анна\Desktop\HomeExs\arrayDev1\obj\Debug\net6.0\arrayDev1.dll
+C:\Users\Анна\Desktop\HomeExs\arrayDev1\obj\Debug\net6.0\ref\arrayDev1.dll
+C:\Users\Анна\Desktop\HomeExs\arrayDev1\obj\Debug\net6.0\arrayDev1.pdb
+C:\Users\Анна\Desktop\HomeExs\arrayDev1\obj\Debug\net6.0\arrayDev1.genruntimeconfig.cache
